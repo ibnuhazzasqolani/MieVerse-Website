@@ -1,0 +1,9 @@
+/* MieVerse - custom styles */
+body { background-color: #f1986c; }
+.navbar-brand .brand-name { color: #212529; font-weight:700; }
+.btn-warning-custom { background: linear-gradient(90deg,#ffb86b,#ff6b3c); color: #fff; border: none; }
+.card { border-radius: .75rem; }
+.card-img-top { height: 180px; object-fit: cover; border-top-left-radius: .75rem; border-top-right-radius: .75rem; }
+.order-summary { background: #fff7f0; border-radius: .5rem; padding: 1rem; }
+.total-row { font-size: 1.15rem; font-weight: 700; }
+.footer-note { color: #6c757d; font-size: .9rem; }
